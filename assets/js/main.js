@@ -2,9 +2,8 @@ AOS.init();
 
 new Typed("#typed", {
     strings: [
-        "Food Make Happiness",
-        "Fresh Ingredients Every Day",
-        "HANDMADE WITH AN EXTRA PINCH OF LOVE",
+        "Welcome to Aditi Automation",
+        
     ],
     typeSpeed: 100,
     delaySpeed: 300,
